@@ -287,7 +287,7 @@ End
 
 * **初始狀態 ($i_{\text{init}}$)：** $150\text{ mA/m}^2$ ($0.150\text{ A/m}^2$)
 * **穩定狀態 ($i_{\text{mean}}$)：** $70\text{ mA/m}^2$ ($0.070\text{ A/m}^2$)
-* **壽期將盡 ($i_{\text{fin}}$)：** $100\text{ mA/m}^2$ ($0.100\text{ A/m}^2$)
+* **壽期將盡 ($i_{\text{final}}$)：** $100\text{ mA/m}^2$ ($0.100\text{ A/m}^2$)
 
 | 海水電位 $\phi$ (ElmerFEM 輸入值 $\text{V}$) | 初始狀態 (Initial) 新下水裸鋼 $i$ ($\text{A/m}^2$) | 穩定狀態 (Mean) 已極化運轉 $i$ ($\text{A/m}^2$) | 壽期將盡 (Final) 沉積層局部剝落 $i$ ($\text{A/m}^2$) | 電化學與規範區間說明 |
 | --- | --- | --- | --- | --- |
